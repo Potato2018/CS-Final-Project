@@ -4,7 +4,7 @@ public class DriverRunner
 {
    public static void main(String[] args)
    {
-      JFrame frame = new JFrame("IRP");
+      JFrame frame = new JFrame("IfRP");
       frame.setSize(1000,500);
       frame.setLocation(100, 50);
       frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
